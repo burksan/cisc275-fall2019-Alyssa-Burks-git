@@ -6,11 +6,11 @@ public class Animal{
 		return name;}
 	
 	public void setName(String name){
-		this.name = name;
+		this.name = name;}
 	
 	public int getLegs(){
-		return legs;
+		return legs;}
 		
 	public void setLegs(int legs){
-		this.legs = legs;
+		this.legs = legs;}
 	}
