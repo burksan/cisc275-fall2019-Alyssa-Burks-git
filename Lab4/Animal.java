@@ -5,12 +5,12 @@ public class Animal{
 	public String getName(){
 		return name;}
 	
-	public void setName(){
+	public void setName(String name){
 		this.name = name;
 	
 	public int getLegs(){
 		return legs;
 		
-	public void setLegs(){
+	public void setLegs(int legs){
 		this.legs = legs;
 	}
