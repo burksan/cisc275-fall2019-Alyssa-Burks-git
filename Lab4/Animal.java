@@ -8,7 +8,7 @@ public class Animal{
 	public void setName(){
 		this.name = name;
 	
-	public String getLegs(){
+	public int getLegs(){
 		return legs;
 		
 	public void setLegs(){
